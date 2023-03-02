@@ -1,0 +1,65 @@
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\bin\Debug\GameInTime.exe.config
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\bin\Debug\GameInTime.exe
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\bin\Debug\GameInTime.pdb
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\bin\Debug\GameInTime.xml
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\GameInTime.Resources.resources
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.GenerateResource.Cache
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\GameInTime.exe
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\GameInTime.xml
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\GameInTime.pdb
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\GameInTime.Form1.resources
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.ResolveComReference.cache
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\GameInTime\GameInTime\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\bin\Debug\GameInTime.exe.config
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\bin\Debug\GameInTime.exe
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\bin\Debug\GameInTime.pdb
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\bin\Debug\GameInTime.xml
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\GameInTime.vbprojAssemblyReference.cache
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.ResolveComReference.cache
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\GameInTime.Form1.resources
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\GameInTime.Resources.resources
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.GenerateResource.cache
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\GameInTime.exe
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\GameInTime.xml
+C:\Users\Akuaku\Desktop\Format\visual studio\GameInTime\GameInTime\obj\Debug\GameInTime.pdb
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\bin\Debug\GameInTime.exe.config
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\bin\Debug\GameInTime.exe
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\bin\Debug\GameInTime.pdb
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\bin\Debug\GameInTime.xml
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.vbprojAssemblyReference.cache
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.ResolveComReference.cache
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.Form1.resources
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.Resources.resources
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.GenerateResource.cache
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.CoreCompileInputs.cache
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.exe
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.xml
+C:\Users\Akuaku\Desktop\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.pdb
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\bin\Debug\GameInTime.exe.config
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\bin\Debug\GameInTime.exe
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\bin\Debug\GameInTime.pdb
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\bin\Debug\GameInTime.xml
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.AssemblyReference.cache
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.ResolveComReference.cache
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.Form1.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.Resources.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.GenerateResource.cache
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.vbproj.CoreCompileInputs.cache
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.exe
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.xml
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\GameInTime\GameInTime\obj\Debug\GameInTime.pdb
